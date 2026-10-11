@@ -6,6 +6,8 @@ Remote [Model Context Protocol](https://modelcontextprotocol.io) server of **SAI
 - **Docs:** https://saikyo.exchange/en/mcp-server (RU: https://saikyo.exchange/mcp-server)
 - **OpenAPI 3.1 (REST equivalents, works with Custom GPT Actions):** https://saikyo.exchange/openapi.json
 - **Official MCP Registry:** `exchange.saikyo/saikyo`
+- **Smithery:** https://smithery.ai/servers/saikyo-exchange/saikyo
+- **Glama:** https://glama.ai/mcp/connectors/exchange.saikyo/saikyo
 - **llms.txt:** https://saikyo.exchange/llms.txt
 
 ## Connect
